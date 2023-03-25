@@ -2,6 +2,12 @@
 
 We follow Semantic Versions since the `0.1.0` release.
 
+## 0.7.0
+
+### Features
+
+- `flake8@6.0` support for python >= 3.8
+- Drops `pythno3.7` support
 
 ## 0.6.0
 
