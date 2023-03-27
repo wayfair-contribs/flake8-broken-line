@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "flake8-broken-line"
+name = "flake8-broken-line-edge"
 version = "0.7.0"
 description = "Flake8 plugin to forbid backslashes for line breaks"
 
