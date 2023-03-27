@@ -8,7 +8,7 @@ except ImportError:  # pragma: no cover
     import importlib_metadata  # type: ignore
 
 #: This is a name that we use to install this library:
-pkg_name = 'flake8-broken-line'
+pkg_name = 'flake8-broken-line-edge'
 
 #: We store the version number inside the `pyproject.toml`:
 pkg_version = importlib_metadata.version(pkg_name)
